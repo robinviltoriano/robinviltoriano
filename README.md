@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @robinviltoriano
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Vision and NLP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me-> Instagram: @robinviltoriano
+- 📫 How to reach me-> Instagram: @robinviltoriano, LinkedIn: linkedin.com/in/robinviltoriano/
 
 <!---
 robinviltoriano/robinviltoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
